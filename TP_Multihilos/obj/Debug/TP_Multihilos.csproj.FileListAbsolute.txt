@@ -1,0 +1,64 @@
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\TP_Multihilos.exe.config
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\TP_Multihilos.exe
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\TP_Multihilos.pdb
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.AssemblyReference.cache
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.Properties.Resources.resources
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.GenerateResource.cache
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.CoreCompileInputs.cache
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.exe
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.pdb
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\NameGenerator.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Buffers.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Memory.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Text.Json.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.ValueTuple.dll
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\NameGenerator.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Buffers.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Memory.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Text.Json.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\bin\Debug\System.ValueTuple.xml
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.CopyComplete
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.AssemblyReference.cache
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.Form1.resources
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.Properties.Resources.resources
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.GenerateResource.cache
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.CoreCompileInputs.cache
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.exe
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.pdb
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\TP_Multihilos.exe.config
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\TP_Multihilos.exe
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\TP_Multihilos.pdb
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\NameGenerator.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Buffers.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Memory.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Text.Json.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.ValueTuple.dll
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\NameGenerator.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Buffers.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Memory.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Text.Json.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\bin\Debug\System.ValueTuple.xml
+C:\Users\Branco\source\repos\TP_Multihilos - copia\TP_Multihilos\obj\Debug\TP_Multihilos.csproj.CopyComplete
+C:\Users\Branco\source\repos\TP_Multihilos\TP_Multihilos\obj\Debug\TP_Multihilos.Caja.resources
